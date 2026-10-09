@@ -217,4 +217,4 @@ Westward is the complete free version of the game, including all features and up
 Download Westward now and embark on your adventure in the Wild West! Play for free and enjoy all the features without limitations.
 
 ---
-**Last updated:** 2026-10-08 20:23:51 UTC
+**Last updated:** 2026-10-09 00:52:26 UTC
